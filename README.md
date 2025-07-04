@@ -108,5 +108,8 @@ curl -X POST http://localhost:3000/simulate-self \
 ```
 
 ---
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/abddaa35-7137-4751-bd38-21bae16c530f" />
+<img width="1226" alt="Image" src="https://github.com/user-attachments/assets/df015a4d-2bdd-489d-926c-25a1b020b5b9" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/a9063b63-89f9-4311-989b-aff9936f0c92" />
 
 ✅ Done! Your AI agent is now ready for action.
